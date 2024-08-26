@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/react-redux-ts-course.iml" filepath="$PROJECT_DIR$/.idea/react-redux-ts-course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/redux_ts_course.iml" filepath="$PROJECT_DIR$/.idea/redux_ts_course.iml" />
     </modules>
   </component>
 </project>
